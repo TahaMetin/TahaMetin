@@ -1,4 +1,4 @@
-# TahaMetin
+### Hey I'm TahaMetin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I am a computer engineering student at Kocaeli University.
 
 I'm interesting with game development mainly and I enjoy automating things.
