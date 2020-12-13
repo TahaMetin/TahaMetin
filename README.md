@@ -36,7 +36,7 @@ I am a computer engineering student from Turkey.
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fbanner2.cleanpng.com%2F20180811%2Fsgg%2Fkisspng-brand-unity-5b6eea4aaa2ed0.5639891215339955946971.jpg&imgrefurl=https%3A%2F%2Fwww.cleanpng.com%2Fpng-brand-unity-logo-product-design-6271614%2F&tbnid=MfGSXWc1LL7pJM&vet=12ahUKEwiurYmKhsztAhUSmhoKHZTmB0kQMygOegUIARDCAQ..i&docid=uCxoTm8Y-upEkM&w=900&h=900&q=unity%20logo&hl=en&ved=2ahUKEwiurYmKhsztAhUSmhoKHZTmB0kQMygOegUIARDCAQ" width="48" height="48" alt="TypeScript" />
+        <img src="https://banner2.cleanpng.com/20180811/sgg/kisspng-brand-unity-5b6eea4aaa2ed0.5639891215339955946971.jpg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Unity
     </td>
