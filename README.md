@@ -9,7 +9,7 @@ I am a computer engineering student from Turkey.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaMetin&theme=tokyonight)
 
-## 🧰 Languages and Tools:
+## Languages and Tools 🧰
 <table>
   <tr>
     <td align="center" width="96">
