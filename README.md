@@ -2,7 +2,7 @@
 I am a computer engineering student at Kocaeli University.
   <img align="right" alt="GIF" src="https://github.com/TahaMetin/TahaMetin/blob/main/code.gif?raw=true" width="500" height="320" />
 ## Interests: ##
--Game development
--Automating things
+- Game development
+- Automating things
 
 
