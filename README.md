@@ -7,6 +7,8 @@ I am a computer engineering student from Turkey.
 - Game development
 - Automating things
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaMetin&theme=tokyonight)
+
 ## 🧰 Languages and Tools:
 <table>
   <tr>
@@ -61,7 +63,5 @@ I am a computer engineering student from Turkey.
   </tr>
 </table>
 
-## :trophy: My Github Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaMetin&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaMetin&show_icons=true&theme=tokyonight)
