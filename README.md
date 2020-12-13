@@ -63,5 +63,3 @@ I am a computer engineering student from Turkey.
   </tr>
 </table>
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaMetin&show_icons=true&theme=tokyonight)
