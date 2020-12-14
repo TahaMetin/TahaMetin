@@ -26,7 +26,7 @@ I am a computer engineering student from Turkey.
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" width="48" height="48" alt="Golang" />
+        <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>java
     </td>
@@ -38,7 +38,7 @@ I am a computer engineering student from Turkey.
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://banner2.cleanpng.com/20180811/sgg/kisspng-brand-unity-5b6eea4aaa2ed0.5639891215339955946971.jpg" width="48" height="48" alt="TypeScript" />
+        <img src="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/5c7aba17-32a8-4be9-b9ae-3a99c8986914" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Unity
     </td>
