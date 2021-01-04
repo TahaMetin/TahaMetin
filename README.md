@@ -14,49 +14,49 @@ I am a computer engineering student from Turkey. Contact : tahametin341@gmail.co
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="https://github.com/TahaMetin/TahaMetin/blob/main/pictures/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#&nbsp;
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://github.com/TahaMetin/TahaMetin/blob/main/pictures/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/TahaMetin/TahaMetin/blob/main/pictures/java-original.svg" width="48" height="48" alt="Java" />
       </a>
       <br>java
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://github.com/TahaMetin/TahaMetin/blob/main/pictures/c-original.svg" width="48" height="48" alt="C" />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png" width="48" height="48" alt="Unity" />
       </a>
       <br>Unity
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicon.dev/devicon.git/icons/android/android-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://github.com/TahaMetin/TahaMetin/blob/main/pictures/android-original.svg" width="48" height="48" alt="Android" />
       </a>
       <br>Android
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="React" />
+        <img src="https://github.com/TahaMetin/TahaMetin/blob/main/pictures/visualstudio-plain.svg" width="48" height="48" alt="Visual Stuido" />
       </a>
       <br>Visual Studio
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://devicon.dev/devicon.git/icons/photoshop/photoshop-line.svg" width="48" height="48" alt="React" />
+        <img src="https://github.com/TahaMetin/TahaMetin/blob/main/pictures/photoshop-plain.svg" width="48" height="48" alt="Photoshop" />
       </a>
       <br>Photoshop
     </td>
