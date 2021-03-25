@@ -2,7 +2,7 @@
 I am a computer engineering student from Turkey.  Contact: yeasworld@gmail.com
   
 ## Interests ⚡ ##
-- Game development  ([Google Play](https://play.google.com/store/apps/developer?id=YeasWorld))
+- Game development  ([Google Play Store](https://play.google.com/store/apps/developer?id=YeasWorld))
 - Automating things
 
 <img align="right" alt="GIF" src="https://github.com/TahaMetin/TahaMetin/blob/main/code.gif" width="500" height="320" />
