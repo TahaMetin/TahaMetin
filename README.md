@@ -2,7 +2,7 @@
 I am a computer engineering student from Turkey. Contact : tahametin341@gmail.com  
   
 ## Interests ⚡ ##
-- Game development  [![Google Play](https://seeklogo.com/images/G/google-play-store-logo-FA292E6779-seeklogo.com.png)](https://play.google.com/store/apps/developer?id=YeasWorld)
+- Game development  [![Google Play](https://img.utdstc.com/icon/c8d/2e0/c8d2e06c6b9f92349828d536f36dcff3ad4148161fadab916c7714f9c80c79d2:200)](https://play.google.com/store/apps/developer?id=YeasWorld)
 - Automating things
 
 <img align="right" alt="GIF" src="https://github.com/TahaMetin/TahaMetin/blob/main/code.gif" width="500" height="320" />
