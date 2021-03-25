@@ -1,5 +1,5 @@
 # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm Taha Metin 
-I am a computer engineering student from Turkey.  [e-mail](tahametin341@gmail.com)  
+I am a computer engineering student from Turkey.  Contact: yeasworld@gmail.com
   
 ## Interests ⚡ ##
 - Game development  [Google Play](https://play.google.com/store/apps/developer?id=YeasWorld)
