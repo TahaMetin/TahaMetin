@@ -10,14 +10,14 @@ I am a computer engineering student from Turkey.  Contact: yeasworld@gmail.com
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaMetin&theme=tokyonight)
 
 ## Games I developed 🎮 (new to old)
-- Fit It [link](https://play.google.com/store/apps/details?id=com.YeasWorld.FitIt) [code of color changing system](https://github.com/TahaMetin/Slightly-Color-Changing-System)
-- Simple card game (school project) [code](https://github.com/TahaMetin/Card-Game-with-unity)
-- Dublicate of Color Switch [link](https://simmer.io/@Taha/renk-degistir) [code](https://github.com/TahaMetin/Switch-Color)
-- Long live Glitch! [link](https://simmer.io/@Taha/long-live-glitch) [code](https://github.com/TahaMetin/Long-Live-Glitch-)
-- Break Bricks [link](https://simmer.io/@Taha/bloklari-kir) [code](https://github.com/TahaMetin/Block-Breaker)
-- Star Wars [link](https://simmer.io/@Taha/uzay-savasi) [code](https://github.com/TahaMetin/Star-Wars-But-not-the-populer-one)
-- Guess the Number [link](https://simmer.io/@Taha/sayi-tahmin-etme) [code](https://github.com/TahaMetin/Gues-The-Number)
-- Text based escape game [code](https://github.com/TahaMetin/Text-based-Unity-Game)
+- Fit It [link to play](https://play.google.com/store/apps/details?id=com.YeasWorld.FitIt) [source code of color changing system](https://github.com/TahaMetin/Slightly-Color-Changing-System)
+- Simple card game (school project) [source code](https://github.com/TahaMetin/Card-Game-with-unity)
+- Dublicate of Color Switch [link to play](https://simmer.io/@Taha/renk-degistir) - [source code](https://github.com/TahaMetin/Switch-Color)
+- Long live Glitch! [link to play](https://simmer.io/@Taha/long-live-glitch) - [source code](https://github.com/TahaMetin/Long-Live-Glitch-)
+- Break Bricks [link to play](https://simmer.io/@Taha/bloklari-kir) - [source code](https://github.com/TahaMetin/Block-Breaker)
+- Star Wars [link to play](https://simmer.io/@Taha/uzay-savasi) - [source code](https://github.com/TahaMetin/Star-Wars-But-not-the-populer-one)
+- Guess the Number [link to play](https://simmer.io/@Taha/sayi-tahmin-etme) - [source code](https://github.com/TahaMetin/Gues-The-Number)
+- Text based escape game [source code](https://github.com/TahaMetin/Text-based-Unity-Game)
 
 ## Languages and Tools 🧰
 <table>
