@@ -2,10 +2,9 @@
 I am a computer engineering student from Turkey.  Contact: yeasworld@gmail.com
   
 ## Interests ⚡ ##
+ <img align="right" alt="GIF" src="https://github.com/TahaMetin/TahaMetin/blob/main/code.gif" width="500" height="320" />
 - Game development  
 - Automating things
-
- <img align="right" alt="GIF" src="https://github.com/TahaMetin/TahaMetin/blob/main/code.gif" width="500" height="320" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaMetin&theme=tokyonight)
 
