@@ -10,7 +10,7 @@ I am a computer engineering student from Turkey.  Contact: yeasworld@gmail.com
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaMetin&theme=tokyonight)
 
 ## Games I developed 🎮 (new to old)
-- Smurfs Maze Game -- [source code](https://github.com/TahaMetin/Smurfs-Maze-Game)
+- Smurfs Maze Game (school project) -- [source code](https://github.com/TahaMetin/Smurfs-Maze-Game)
 - Fit It -- [link to play](https://play.google.com/store/apps/details?id=com.YeasWorld.FitIt) -- [source code of color changing system](https://github.com/TahaMetin/Slightly-Color-Changing-System)
 - Simple card game (school project) -- [source code](https://github.com/TahaMetin/Card-Game-with-unity)
 - Dublicate of Color Switch -- [link to play](https://simmer.io/@Taha/renk-degistir) -- [source code](https://github.com/TahaMetin/Switch-Color)
