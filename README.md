@@ -11,7 +11,7 @@ I am a computer engineering student from Turkey.  Contact: yeasworld@gmail.com
 
 ## Games I developed 🎮 (new to old)
 - Smurfs Maze Game -- [source code](https://github.com/TahaMetin/Smurfs-Maze-Game) -- (school project, devoloped with java and javaFX)
-- Fit It -- [link to play](https://play.google.com/store/apps/details?id=com.YeasWorld.FitIt) -- [source code of color changing system](https://github.com/TahaMetin/Slightly-Color-Changing-System) -- (devoloped with unity) 
+- Fit It -- [link to play](https://play.google.com/store/apps/details?id=com.YeasWorld.FitIt) -- [source code of color changing system](https://github.com/TahaMetin/Slightly-Color-Changing-System) -- (devoloped with unity,published on google play) 
 - Simple card game -- [source code](https://github.com/TahaMetin/Card-Game-with-unity) -- (school project, devoloped with unity)
 - Dublicate of Color Switch -- [link to play](https://simmer.io/@Taha/renk-degistir) -- [source code](https://github.com/TahaMetin/Switch-Color) -- (devoloped with unity)
 - Long live Glitch! -- [link to play](https://simmer.io/@Taha/long-live-glitch) -- [source code](https://github.com/TahaMetin/Long-Live-Glitch-) -- (devoloped with unity)
