@@ -7,7 +7,7 @@ I am a computer engineering student from Turkey.  Contact: yeasworld@gmail.com
 - Game development  
 - Automating things
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaMetin&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaMetin&theme=tokyonight&hide=shaderlab)
 
 ## Games I developed 🎮 (new to old)
 - Smurfs Maze Game -- [source code](https://github.com/TahaMetin/Smurfs-Maze-Game) -- (school project, devoloped with java and javaFX)
