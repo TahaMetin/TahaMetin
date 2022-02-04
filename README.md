@@ -9,7 +9,7 @@ I am a computer engineering student from Turkey.  Contact: yeasworld@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaMetin&theme=tokyonight&hide=shaderlab,HLSL)
 
-<!
+<!---
 ## Games I developed 🎮 (new to old)
 - Smurfs Maze Game -- [source code](https://github.com/TahaMetin/Smurfs-Maze-Game) -- (school project, devoloped with java and javaFX)
 - Fit It -- [link to play](https://play.google.com/store/apps/details?id=com.YeasWorld.FitIt) -- [source code of color changing system](https://github.com/TahaMetin/Slightly-Color-Changing-System) -- (devoloped with unity, published on google play) 
@@ -20,7 +20,7 @@ I am a computer engineering student from Turkey.  Contact: yeasworld@gmail.com
 - Star Wars -- [link to play](https://simmer.io/@Taha/uzay-savasi) -- [source code](https://github.com/TahaMetin/Star-Wars-But-not-the-populer-one) --  (devoloped with unity)
 - Guess the Number -- [link to play](https://simmer.io/@Taha/sayi-tahmin-etme) -- [source code](https://github.com/TahaMetin/Gues-The-Number) --  (devoloped with unity)
 - Text based escape game -- [source code](https://github.com/TahaMetin/Text-based-Unity-Game) --  (devoloped with unity)
->
+--->
 ## Languages and Tools 🧰
 <table>
   <tr>
