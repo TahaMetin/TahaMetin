@@ -18,6 +18,7 @@ I am a computer engineering student from Turkey.  Contact: yeasworld@gmail.com
 - [Instagram Giveaway Bot](https://github.com/TahaMetin/Instagram-Cekilis-Botu) -- (Python, Selenium)
 - [Word Counter](https://github.com/TahaMetin/Word-Counter) -- (C)
 - [Daily Code Pusher](https://github.com/TahaMetin/Daily-Code-Pusher/blob/main/README.md) -- (Java, Bat)
+
 🎮
 - [Smurfs Maze Game](https://github.com/TahaMetin/Smurfs-Maze-Game) -- (java, javaFX)
 - [Fit It](https://play.google.com/store/apps/details?id=com.YeasWorld.FitIt) (Now on Google Play) -- [color changing system](https://github.com/TahaMetin/Slightly-Color-Changing-System) -- (unity, C#) 
