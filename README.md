@@ -1,4 +1,4 @@
-# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm Taha Metin 
+# Hey :wave: I'm Taha Metin 
 I am a computer engineering student from Turkey.  Contact: yeasworld@gmail.com
   
 ## Interests ⚡ ##
