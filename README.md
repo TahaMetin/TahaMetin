@@ -20,6 +20,7 @@ I am a computer engineering student from Turkey.  :envelope:: yeasworld@gmail.co
 - [Daily Code Pusher](https://github.com/TahaMetin/Daily-Code-Pusher/blob/main/README.md) -- (Java, Bat)
 
 🎮
+- [Bullet Rush Prototype](https://github.com/TahaMetin/Bullet-Rust-Prototype) -- (Unity, C#)
 - [Smurfs Maze Game](https://github.com/TahaMetin/Smurfs-Maze-Game) -- (java, javaFX)
 - [Fit It](https://play.google.com/store/apps/details?id=com.YeasWorld.FitIt) (Now on Google Play) -- [color changing system](https://github.com/TahaMetin/Slightly-Color-Changing-System) -- (unity, C#) 
 - [Card game](https://github.com/TahaMetin/Card-Game-with-unity) -- (Unity, C#)
