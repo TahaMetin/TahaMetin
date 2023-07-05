@@ -18,6 +18,8 @@ I am a computer engineering student from Turkey.
 - [Instagram Giveaway Bot](https://github.com/TahaMetin/Instagram-Cekilis-Botu) -- (Python, Selenium)
 - [Word Counter](https://github.com/TahaMetin/Word-Counter) -- (C)
 - [Daily Code Pusher](https://github.com/TahaMetin/Daily-Code-Pusher/blob/main/README.md) -- (Java, Bat)
+- [text Merger](https://github.com/TahaMetin/text-merge) -- (Java)
+- [Graph Based Text Summarization](https://github.com/TahaMetin/Graph-Based-Text-Summarization) -- (Python)
 
 🎮
 - [Bullet Rush Prototype](https://github.com/TahaMetin/Bullet-Rust-Prototype) -- (Unity, C#)
