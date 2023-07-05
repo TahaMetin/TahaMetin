@@ -1,5 +1,5 @@
 # Hey :wave: I'm Taha Metin 
-I am a computer engineering student from Turkey. 
+I am a computer engineer. 
   
 ## Interests ⚡ ##
  <img align="right" alt="GIF" src="https://github.com/TahaMetin/TahaMetin/blob/main/code.gif" width="500" height="320" />
